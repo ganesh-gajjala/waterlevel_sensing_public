@@ -1,4 +1,9 @@
 # Geothermal Well Fluid Level Detector
+### 📈 Executive Summary
+
+* **The Problem:** Deep geothermal well monitoring generates vast, noisy streams of continuous time-series temperature data via fiber-optic distributed temperature sensing (DTS) cables, making manual identification of dynamic water levels labor-intensive and prone to error.
+* **The Computational Solution:** Developed a robust Python pipeline that applies unsupervised machine learning (clustering algorithms) and statistical pattern recognition to automatically filter signal noise and isolate structural thermal boundaries.
+* **The Domain Impact:** Enables automated, real-time tracking of fluid levels in deep geothermal wells, drastically improving early anomaly detection and operational safety frameworks for clean energy infrastructure.
 
 Automated Python workflow designed to process high-frequency distributed temperature sensing (DTS) data collected via optical fibers. The system leverages unsupervised machine learning to detect shifting fluid levels and gas/liquid phase transitions within deep geothermal wells under varying operational loads.
 
