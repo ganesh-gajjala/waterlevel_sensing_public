@@ -4,7 +4,7 @@ Copyright (c) 2026 Ganesh Gajjala / Technical University of Munich (TUM). All Ri
 
 ## CONFIDENTIAL AND PROPRIETARY ACADEMIC & RESEARCH PROPERTY
 
-This repository contains proprietary research code designed for estimating the water level in deep geothermal wells using high-frequency distributed temperature sensing (DTS) data collected via optical fibers . 
+This repository contains proprietary research code designed for estimating the water level in deep geothermal wells using high-frequency distributed temperature sensing data collected via optical fibers . 
 
 No part of this repository, including but not limited to source code, algorithms, trained models, weights, documentation, or associated datasets, may be:
 * **Copied**
