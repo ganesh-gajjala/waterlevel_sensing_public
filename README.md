@@ -5,6 +5,12 @@
 * **The Computational Solution:** Developed a robust Python pipeline that applies unsupervised machine learning (clustering algorithms) and statistical pattern recognition to automatically filter signal noise and isolate structural thermal boundaries.
 * **The Domain Impact:** Enables automated, real-time tracking of fluid levels in deep geothermal wells, drastically improving early anomaly detection and operational safety frameworks for clean energy infrastructure.
 
+<p align="center">
+  <img src="./HDBSCAN_2024_03_31.jpg" alt="HDBSCAN clustering of temperature data" width="75%" />
+  <br />
+  <sub><b>HDBSCAN clustering of temperature data collected on 31.03.2024</b></sub>
+</p>
+
 Automated Python workflow designed to process high-frequency distributed temperature sensing (DTS) data collected via optical fibers. The system leverages unsupervised machine learning to detect shifting fluid levels and gas/liquid phase transitions within deep geothermal wells under varying operational loads.
 
 ## 📋 Overview & Problem Statement
