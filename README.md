@@ -8,7 +8,7 @@
 <p align="center">
   <img src="./HDBSCAN_2024_03_31.jpg" alt="HDBSCAN clustering of temperature data" width="75%" />
   <br />
-  <sub><b>HDBSCAN clustering of temperature data collected on 31.03.2024</b></sub>
+  <sub><b>HDBSCAN clustering of temperature data </b></sub>
 </p>
 
 Automated Python workflow designed to process high-frequency distributed temperature sensing (DTS) data collected via optical fibers. The system leverages unsupervised machine learning to detect shifting fluid levels and gas/liquid phase transitions within deep geothermal wells under varying operational loads.
